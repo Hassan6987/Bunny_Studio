@@ -27,3 +27,14 @@ Bunny Studio is a cutting-edge mobile application designed to deliver an excepti
 
 # Screenshots
 Here are some screenshots of Bunny Studio the Audio Streaming App.
+![signUp](https://github.com/user-attachments/assets/037df31e-4270-41f5-b3a6-83b466287ed9)
+![signInSignUp](https://github.com/user-attachments/assets/b535feb2-5c40-4e8d-bcef-08b3d290dd3c)
+![profileDark](https://github.com/user-attachments/assets/ee76f5e5-a124-4aa3-842f-ea77ba7863aa)
+![profileBright](https://github.com/user-attachments/assets/2fc4ccc3-7774-4946-8b70-d4f44a98e8f8)
+![playerDark](https://github.com/user-attachments/assets/b50cf587-ce44-499f-a1db-ae2a0387e9a5)
+![playerBright](https://github.com/user-attachments/assets/6110940d-a2a2-4f1c-aa07-f78378521052)
+![login](https://github.com/user-attachments/assets/768a147c-150e-43dd-be4a-b9790c34fe91)
+![homeDark](https://github.com/user-attachments/assets/49144cbe-e248-4802-a5eb-0fe3e3b80794)
+![homeBright](https://github.com/user-attachments/assets/f1f54ec4-0e9f-4f26-aa95-57fd682bacb8)
+![get started](https://github.com/user-attachments/assets/bfdde658-7190-4efa-85b8-3c81544a2ebd)
+![chooser](https://github.com/user-attachments/assets/6b7a00b6-64b0-4b33-aec9-b9736299def0)
