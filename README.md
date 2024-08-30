@@ -29,7 +29,7 @@ Bunny Studio is a cutting-edge mobile application designed to deliver an excepti
 Here are some screenshots of Bunny Studio the Audio Streaming App.
 
 # Pre-Login Screens
-<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/get%20started.png" height="600" width="300">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/chooser.png" height="600" width="300">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/signInSignUp.png" height="600" width="300">
+<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/get%20started.png" height="500" width="250">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/chooser.png" height="500" width="250">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/signInSignUp.png" height="500" width="250">
 
 # Login & SignUp Screens
 <img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/login.png" height="600" width="300">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/signUp.png" height="600" width="300">
