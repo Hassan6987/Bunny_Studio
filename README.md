@@ -27,14 +27,21 @@ Bunny Studio is a cutting-edge mobile application designed to deliver an excepti
 
 # Screenshots
 Here are some screenshots of Bunny Studio the Audio Streaming App.
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/get%20started.png)
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/chooser.png)
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/signInSignUp.png)
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/login.png)
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/signUp.png)
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/homeDark.png)
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/homeBright.png)
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/playerDark.png)
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/playerBright.png)
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/profileDark.png)
-![](https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/profileBright.png)
+
+# Pre-Login Screens
+<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/get%20started.png" height="600" width="300">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/chooser.png" height="600" width="300">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/signInSignUp.png" height="600" width="300">
+
+# Login & SignUp Screens
+<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/login.png" height="600" width="300">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/signUp.png" height="600" width="300">
+
+# Home Screen
+<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/homeDark.png" height="600" width="300">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/homeBright.png" height="600" width="300">
+
+# Song Player Screen
+<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/playerDark.png" height="600" width="300">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/playerBright.png" height="600" width="300">
+
+# Profile Screen
+<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/profileDark.png" height="600" width="300">---<img src="https://github.com/Hassan6987/Bunny_Studio/blob/master/assets/ss/profileBright.png" height="600" width="300">
+
+
+
